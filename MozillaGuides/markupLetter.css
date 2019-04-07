@@ -24,6 +24,7 @@ p, li, dd, dt, address {
 
 .wrapper {
 	background-color: #FFDAB9;
+	padding: 10px;
 }
 
 .name-column{
