@@ -1,0 +1,52 @@
+body {
+ 
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: gray;
+  border: 1px solid black;
+}
+
+.sender-column {
+  text-align: right;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+
+p,ul,ol,dl,address {
+  font-size: 1.1em;
+  
+}
+
+p, li, dd, dt, address {
+  line-height: 1.5;
+}
+
+.wrapper {
+	background-color: #FFDAB9;
+}
+
+.name-column{
+	
+	max-width: 500px;
+}
+
+.linker {
+	text-decoration: underline;
+	font-family: monospace, serif;
+}
+
+.copyright{
+	text-align: center;
+	font-size: 2.0em;
+	font-family: Georgia, Tahoma, sans-serif;
+}
+
+.tab{
+	margin-left: 40px;
+}
+
+time{
+	font-weight: bold;
+}
+
